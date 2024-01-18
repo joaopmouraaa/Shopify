@@ -1,0 +1,2 @@
+[environments.development]
+store = "https://mostock-dev-store1.myshopify.com/"
